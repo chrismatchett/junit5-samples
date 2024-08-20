@@ -8,24 +8,24 @@
  * http://www.eclipse.org/legal/epl-v20.html
  */
 
-package com.example.project;
+// package com.example.project;
 
-public class Calculator {
+// public class Calculator {
 
-	public double add(int a, int b) {
-		return a + b;
-	}
+// 	public double add(int a, int b) {
+// 		return a + b;
+// 	}
 
-	public double subtract(double a, double b) {
-		return a - b;
-	}
+// 	public double subtract(double a, double b) {
+// 		return a - b;
+// 	}
 
-	public double multiply(double a, double b) {
-		return a * b;
-	}
+// 	public double multiply(double a, double b) {
+// 		return a * b;
+// 	}
 
-	public double divide(double a, double b) {
-		return a / b;
-	}
+// 	public double divide(double a, double b) {
+// 		return a / b;
+// 	}
 
-}
+// }
